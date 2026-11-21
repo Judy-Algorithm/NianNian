@@ -1,0 +1,306 @@
+{
+  "revision": "V12",
+  "body_mm": [
+    79.0,
+    55.8,
+    11.4
+  ],
+  "usb_local_depth_mm": 12.0,
+  "battery_spacer_height": 2.8,
+  "production_parts": 8,
+  "fit_confirmed": false,
+  "button_mechanics_physical_tested": false,
+  "checks": [
+    {
+      "pair": "A_main_two_bay/hardware",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_rear_cover/hardware",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "E_battery_spacer/hardware",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/hardware",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/hardware",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main_two_bay/battery",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_rear_cover/battery",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "E_battery_spacer/battery",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/battery",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/battery",
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/body",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/cover",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/other_cap",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/USB_112",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/USB_133",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/body",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/cover",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/other_cap",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/USB_112",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/USB_133",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/outward_capture",
+      "travel": -0.6,
+      "contact_volume_mm3": 0.817929,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/inward_stop",
+      "travel": 0.7,
+      "contact_volume_mm3": 1.16377,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 1,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 2,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 4,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 6,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/rear_loading_path",
+      "z_offset": 8,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_BOOT_cap/cover_vertical_capture",
+      "z_offset": 0.7,
+      "contact_volume_mm3": 0.405,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/body",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/cover",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/other_cap",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/USB_112",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/USB_133",
+      "travel": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/body",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/cover",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/other_cap",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/USB_112",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/USB_133",
+      "travel": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/outward_capture",
+      "travel": -0.6,
+      "contact_volume_mm3": 0.817929,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/inward_stop",
+      "travel": 0.7,
+      "contact_volume_mm3": 1.16377,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 0,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 0.5,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 1,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 2,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 4,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 6,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/rear_loading_path",
+      "z_offset": 8,
+      "volume_mm3": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "K_RST_cap/cover_vertical_capture",
+      "z_offset": 0.7,
+      "contact_volume_mm3": 0.405,
+      "pass_check": true
+    }
+  ],
+  "all_pass": true
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "file": "A_main_two_bay.stl",
+    "triangles": 5528,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      79.0,
+      55.8,
+      10.4
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "C_rear_cover.stl",
+    "triangles": 13608,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      79.0,
+      55.8,
+      6.55
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "D2_daisy_center.stl",
+    "triangles": 6086,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      6.16,
+      6.159,
+      1.995
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "D3_stem_leaves.stl",
+    "triangles": 11676,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      20.84,
+      18.96,
+      1.041
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "D_daisy_petals.stl",
+    "triangles": 44194,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      20.837,
+      20.543,
+      1.723
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "E_battery_spacer.stl",
+    "triangles": 348,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      34.2,
+      50.2,
+      2.8
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "K_BOOT_cap.stl",
+    "triangles": 1068,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      3.8,
+      3.6,
+      5.248
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "K_RST_cap.stl",
+    "triangles": 1068,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      3.8,
+      3.6,
+      5.223
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T_full_board_cover.stl",
+    "triangles": 5572,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      39.2,
+      55.8,
+      3.35
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T_full_board_frame.stl",
+    "triangles": 1876,
+    "watertight": true,
+    "non_manifold_or_boundary_edges": 0,
+    "degenerate_faces": 0,
+    "positive_volume": true,
+    "bounding_box_mm": [
+      39.2,
+      55.8,
+      10.4
+    ],
+    "bed_z_min": 0.0,
+    "pass": true
+  }
+]

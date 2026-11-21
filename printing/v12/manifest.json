@@ -1,0 +1,123 @@
+{
+  "revision": "V12",
+  "body_mm": [
+    79,
+    55.8,
+    11.4
+  ],
+  "USB_local_depth_mm": 12.0,
+  "physical_fit_confirmed": false,
+  "sliced_X1C_PETG": true,
+  "entries": [
+    {
+      "path": "printing/v12/README.md",
+      "bytes": 3280,
+      "sha256": "2453c4a3d8edcd6f6fce1921a9915e41ed70c664ddeba42ac016fbc631b833be"
+    },
+    {
+      "path": "printing/v12/geometry-backup/V12_蓝色全套5件_纯模型.3mf",
+      "bytes": 205790,
+      "sha256": "04ceaffdd3bb13281ce0206e814ff1d37498a55bec52d7bf974147979c7beb51"
+    },
+    {
+      "path": "printing/v12/params.json",
+      "bytes": 3145,
+      "sha256": "a0f2b07756092b5f186dd6bfc5a311f6cfc81d805977f1fdb978ba257ad421b0"
+    },
+    {
+      "path": "printing/v12/project/打开这个_V12_蓝色全套5件_PETG.3mf",
+      "bytes": 484061,
+      "sha256": "91e587c7c9d1e96d7425bdc26e8b677f648d5bff449a4874ef36604b2774d960"
+    },
+    {
+      "path": "printing/v12/slicer-settings/filament.json",
+      "bytes": 7679,
+      "sha256": "13d544a5ddc8218011f9e93f9c2e898ef86ee6d65dea688136fb3a9990c45d34"
+    },
+    {
+      "path": "printing/v12/slicer-settings/machine.json",
+      "bytes": 35620,
+      "sha256": "03e05fa4ef8874f4e7c5855f854abbdae02087a6774d13f86668b45a4208f85a"
+    },
+    {
+      "path": "printing/v12/slicer-settings/process.json",
+      "bytes": 8428,
+      "sha256": "c71a87ac118c2cb97af82ccb2a3325d816fe9db063fc24ab75ea91534039b02f"
+    },
+    {
+      "path": "printing/v12/source/build.py",
+      "bytes": 11271,
+      "sha256": "3373d1d4d5193bc97ca865e0260fdd6c216f20eb86fbc668336b063472925307"
+    },
+    {
+      "path": "printing/v12/source/package.py",
+      "bytes": 1559,
+      "sha256": "3e7dfd9fb3d6be4d5d89cf0082e4ebf430ce2559c91de0fc057879b8bc00e04a"
+    },
+    {
+      "path": "printing/v12/source/preview.py",
+      "bytes": 1923,
+      "sha256": "8d9d5ae8420c5bcb0b96d0bf055442ecdc6dbb4650a3781d42b505bcd7df2614"
+    },
+    {
+      "path": "printing/v12/source/validate_meshes.py",
+      "bytes": 1874,
+      "sha256": "b0d872bb9b5c75b66d6fb0f7ebb5e13d0fcb132b6128703bc67bcf1e9cf2a4fe"
+    },
+    {
+      "path": "printing/v12/stl/A_main_two_bay.stl",
+      "bytes": 276484,
+      "sha256": "a16b09d442f097034258d139dd00e65221c9d3c7930a38c23fd91494a2ba434b"
+    },
+    {
+      "path": "printing/v12/stl/C_rear_cover.stl",
+      "bytes": 680484,
+      "sha256": "c762ffd0c7013ccf1dead2106dc3b52f46522918235646bba947daa1bcf01851"
+    },
+    {
+      "path": "printing/v12/stl/D2_daisy_center.stl",
+      "bytes": 304384,
+      "sha256": "17ca0da7e5da024cd8af83c857e8cffb91bac5146c64f435d2748938f2a303c5"
+    },
+    {
+      "path": "printing/v12/stl/D3_stem_leaves.stl",
+      "bytes": 583884,
+      "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
+    },
+    {
+      "path": "printing/v12/stl/D_daisy_petals.stl",
+      "bytes": 2209784,
+      "sha256": "e7bce71e34297b1bc5feb75315f1f02c0bfce6dc4c9d5706fc7466cb1bf11540"
+    },
+    {
+      "path": "printing/v12/stl/E_battery_spacer.stl",
+      "bytes": 17484,
+      "sha256": "de42667e61d5d1de94431c08230ddae9f8b894f76d1c9f0ad2e599bf6dfb636f"
+    },
+    {
+      "path": "printing/v12/stl/K_BOOT_cap.stl",
+      "bytes": 53484,
+      "sha256": "b24060d9a97466ac7c3de91a20a0338303b991534b6f43f6f7034ff38be784d5"
+    },
+    {
+      "path": "printing/v12/stl/K_RST_cap.stl",
+      "bytes": 53484,
+      "sha256": "de728b10d1e17f567c225f2f9415bc682ff6c7808c76e420151ee6d51006f4c1"
+    },
+    {
+      "path": "printing/v12/validation/checks.json",
+      "bytes": 6308,
+      "sha256": "c5a815df02451ee28cd60472fa0cc3a2dcd8d5c3cd9864266566084b57af94dd"
+    },
+    {
+      "path": "printing/v12/validation/mesh-check-report.json",
+      "bytes": 2941,
+      "sha256": "674f2981b75edadbc22dda0314ab329335e4e84719f6815cf8436d7c4c4885d0"
+    },
+    {
+      "path": "printing/v12/validation/slicer-validation.json",
+      "bytes": 1254,
+      "sha256": "2befda19783a8b0a897fb0e606e9725008e3aab09432531414520e18b5c6d68b"
+    }
+  ]
+}

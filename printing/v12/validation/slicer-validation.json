@@ -1,0 +1,57 @@
+{
+  "index": "1",
+  "extruder_type": "0",
+  "nozzle_volume_type": "0",
+  "printer_model_id": "",
+  "nozzle_diameters": "0.4",
+  "timelapse_type": "0",
+  "prediction": "3319",
+  "weight": "20.78",
+  "pause_count": "0",
+  "first_layer_time": "0.000000",
+  "outside": "false",
+  "support_used": "true",
+  "label_object_enabled": "true",
+  "support_material_on_wipe_tower": "false",
+  "enable_filament_dynamic_map": "false",
+  "has_filament_switcher": "false",
+  "multi_nozzle_diameter_mode": "0",
+  "filament_maps": "1",
+  "limit_filament_maps": "0",
+  "printer": "Bambu Lab X1 Carbon",
+  "filament": [
+    "PETG"
+  ],
+  "bed": "Textured PEI Plate",
+  "objects": [
+    {
+      "name": "A_main_two_bay",
+      "enable_support": "0",
+      "extruder": "1"
+    },
+    {
+      "name": "C_rear_cover",
+      "enable_support": "1",
+      "extruder": "1"
+    },
+    {
+      "name": "E_battery_spacer",
+      "enable_support": "0",
+      "extruder": "1"
+    },
+    {
+      "name": "K_BOOT_cap",
+      "brim_type": "outer_only",
+      "brim_width": "3",
+      "enable_support": "0",
+      "extruder": "1"
+    },
+    {
+      "name": "K_RST_cap",
+      "brim_type": "outer_only",
+      "brim_width": "3",
+      "enable_support": "0",
+      "extruder": "1"
+    }
+  ]
+}

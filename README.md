@@ -1,28 +1,28 @@
-# 念念 · V11.1 整体双仓外壳
+# 念念 · V12 完整打印版
 
-左侧屏幕与主板、右侧电池；整体壳、可拆后盖、两颗防脱按键帽、电池垫片。配色：蓝壳、白花瓣、黄花心、黑花柄和叶片。
+主体 **79×55.8×11.4 mm**；USB 下沿局部加强至 12 mm。保留屏幕左、雏菊右、背面小猪和隐藏挂耳。
 
-**V11.1 修复 V11 按键帽两端过大、无法装入闭孔的安装路径问题：改为从后方 U 槽装入，合盖后由小舌片限位。**
+## 直接打开这一份
 
-[剩余蓝色三件合打一盘](printing/v11_1/plates/07_剩余蓝色三件合打一盘_V11p1.3mf) · [下载新版打印包](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11p1_printing.zip) · [装配说明](printing/v11_1/README.md)
+[下载一盘五件 PETG 打印工程](https://raw.githubusercontent.com/Judy-Algorithm/NianNian/main/printing/v12/project/打开这个_V12_蓝色全套5件_PETG.3mf)
 
-## 已经打印旧 00 和花件
+已预设：**X1 Carbon、0.4 mm 喷嘴、纹理 PEI 板、Generic PETG、0.20 mm 层高**；后盖自动支撑，两颗帽子带 3 mm 外圈附着边。经 Bambu Studio 2.9.1.70 实际切片并重新导入验证，预计约 **55 分钟、21 g**。实际打印前仍需核对现场机型、喷嘴、材料和料槽。
 
-1. 旧 00 仍可检查整板能否自然放入、USB 能否插到底和后盖是否顶元件。旧闭孔不能装入两端带止挡的帽子，不要硬塞。
-2. V11.1 的帽子、垫片和花件几何均未改变，已经打印的可复用。
-3. 剩余前壳、后盖、垫片可使用 07 同盘打印；不要再重复打印 01～03。后盖需要支撑，切片后检查预览。
-4. 新安装槽与按键回弹尚未实物验证。旧 00 板子与 USB 通过，不代表新版按键已通过。
+一盘包含前壳、后盖、2.8 mm 电池垫片、BOOT 帽、RESET 帽。白花瓣、黄花心、黑花柄沿用已打印的花件，成品共 8 件。不是将所有部件融合打印；完成后仍需装配和粘装花件。
 
-![双仓布局，V11.1 仅修订侧边按键安装口](docs/images/v11-two-bay.png)
+[完整打印包](https://raw.githubusercontent.com/Judy-Algorithm/NianNian/main/downloads/NianNian_V12_printing.zip) · [完整 CAD／装配 STEP／参数化源文件](https://raw.githubusercontent.com/Judy-Algorithm/NianNian/main/downloads/NianNian_V12_CAD.zip) · [装配说明](printing/v12/README.md) · [独立 STL](printing/v12/stl/)
 
-## 从零开始
+![V12 布局](docs/images/v12-two-bay.png)
 
-[新版 00 完整屏框与按键帽](printing/v11_1/fit-check/00_整板定位与按键帽试装.3mf) · [独立 STL](printing/v11_1/stl/) · [全部排版](printing/v11_1/plates/)
+## 本次修订
 
-成品共 8 件。电池垫片名义厚 3.4 mm，按整包 6 mm 厚电池计算；实测后调整，不能压紧电芯合盖。3MF 只含几何与摆放，仍需选实际机器、材料和支撑。
+- 主体由 12 mm 减为 11.4 mm，垫片由 3.4 mm 改为 2.8 mm。
+- 后方 U 槽装入按键帽，后盖舌片限位；USB 与两个按钮采用原厂中心坐标。
+- USB 开口保持已能插线的 14×7 mm，真实包胶宽厚尚未测量，不按斜拍卷尺直接缩孔。
+- 为避免薄壳的 USB 下沿只剩 0.25 mm，增加局部 0.6 mm 加强。花件和挂耳另外凸出，整机最大厚度并非 11.4 mm。
 
-[最新参数化 CAD 与 STEP](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11_CAD.zip)
+**几何与网格检查通过，尚未实物试装 V12。** 实际按键回弹、PETG 收缩、电池及导线空间、承重仍需现场确认。壳、后盖和本版垫片成套使用，不混装旧版壳盖或旧 3.4 mm 垫片。
 
-## 旧版
+若 Bambu Studio 版本过旧提示不兼容，优先更新软件；[备用纯模型](printing/v12/geometry-backup/)不含 PETG 与支撑预设，需重新设置后切片。
 
-[V11 存档](printing/v11/) · [V10 存档](printing/v10/)。旧版壳和后盖不与 V11.1 混装；旧按键帽和花件可以沿用。
+旧版仅作存档：[V11.1](printing/v11_1/) · [V11](printing/v11/) · [V10](printing/v10/)。
