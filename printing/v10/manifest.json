@@ -65,7 +65,7 @@
       "path": "printing/v10/stl/D3_stem_leaves.stl",
       "category": "production_stl",
       "name": "花梗和叶片（一体）",
-      "color": "深绿或黑色",
+      "color": "黑色",
       "bytes": 583884,
       "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
     },
@@ -110,7 +110,7 @@
       "sha256": "cfe42217ee0d05905d0e130c646d76feb204e944e6aa687d99ef157f7aeb3bdc"
     },
     {
-      "path": "printing/v10/plates/06_花梗叶片_深绿或黑色.3mf",
+      "path": "printing/v10/plates/06_花梗叶片_黑色.3mf",
       "category": "production_plate",
       "name": "",
       "color": "",
@@ -205,5 +205,8 @@
       "bytes": 170004,
       "sha256": "02070343f276db50292c931a43dd93120c7982cb9639e2096dcca8e64e45c5c6"
     }
-  ]
+  ],
+  "fit_coupon_08_printed": true,
+  "physical_fit_confirmed": false,
+  "fit_status": "08 printed; user reports misalignment; assembly orientation and dimensional offset unresolved"
 }
