@@ -1,0 +1,363 @@
+{
+  "body_mm": [
+    79.0,
+    55.8,
+    12.0
+  ],
+  "export_coordinate_convention": "front at +Z; true unmirrored manufacturer PCB; back at Z=0",
+  "plant_scale": 0.9,
+  "rear_round_bore_mm": 3.0,
+  "usb_opening_mm": [
+    14.0,
+    7.0
+  ],
+  "usb_center_front_xyz": [
+    -19.8,
+    -27.9,
+    4.35
+  ],
+  "boot_center_front_xyz": [
+    -29.249000000000002,
+    -23.802,
+    4.4
+  ],
+  "reset_center_front_xyz": [
+    -10.326,
+    -23.827,
+    4.4
+  ],
+  "boot_access": "8mm rear-edge operating notch; not a full-size pushbutton",
+  "reset_hole_mm": 2.0,
+  "reference_plug_jacket_mm": [
+    12.0,
+    6.0
+  ],
+  "real_user_USB_jacket_measurement": "not confirmed: ruler photo only",
+  "rear_extra_depth_mm": 3.8,
+  "max_total_depth_mm": 17.893,
+  "checks": [
+    {
+      "pair": "A_main/A2_board_retainer",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/B_battery_box",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/B2_battery_lid",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/C_pig_rear_hidden_loop",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/D_daisy_petals",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A_main/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/B_battery_box",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/B2_battery_lid",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/C_pig_rear_hidden_loop",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/D_daisy_petals",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "A2_board_retainer/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/B2_battery_lid",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/C_pig_rear_hidden_loop",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/D_daisy_petals",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B_battery_box/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/C_pig_rear_hidden_loop",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/D_daisy_petals",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "B2_battery_lid/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/D_daisy_petals",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "C_pig_rear_hidden_loop/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D_daisy_petals/D2_daisy_center",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D_daisy_petals/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D_daisy_petals/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D_daisy_petals/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D_daisy_petals/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D2_daisy_center/D3_stem_leaves",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D2_daisy_center/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D2_daisy_center/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D2_daisy_center/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D3_stem_leaves/module_vendor_pins_trimmed",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D3_stem_leaves/battery_package",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "D3_stem_leaves/sd_placeholder",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_loop/outside_front_outline",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_slot/interior",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_round_bore/interior",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_round_bore/connects_side_slot",
+      "overlap_mm3": 7.068583,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_loop/design_roof",
+      "minimum_mm": 1.2,
+      "pass_check": true
+    },
+    {
+      "pair": "rear_loop/design_lateral_ligament",
+      "minimum_mm": 1.35,
+      "pass_check": true
+    },
+    {
+      "pair": "reference_12x6_USB_jacket/front_shell",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "reference_12x6_USB_jacket/rear_cover",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "BOOT_nail_path/front_shell",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "BOOT_nail_path/rear_cover",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "RST_1mm_probe_path/front_shell",
+      "volume": 0.0,
+      "pass_check": true
+    },
+    {
+      "pair": "RST_1mm_probe_path/rear_cover",
+      "volume": 0.0,
+      "pass_check": true
+    }
+  ],
+  "physical_fit": "not tested",
+  "loop_load_test": "not tested",
+  "wire_routing": "actual PCB/battery plug height and wire length must be checked in assembly"
+}

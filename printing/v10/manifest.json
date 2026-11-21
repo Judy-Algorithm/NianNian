@@ -1,0 +1,209 @@
+{
+  "revision": "V10",
+  "units": "millimeter",
+  "production_parts": 8,
+  "production_plates": 6,
+  "physical_print_tested": false,
+  "entries": [
+    {
+      "path": "printing/v10/stl/A_main.stl",
+      "category": "production_stl",
+      "name": "前壳",
+      "color": "蓝色",
+      "bytes": 260684,
+      "sha256": "0c2937c4d17519fe2b17f080378aabfc6638934c319e01073214cec2bcb060d9"
+    },
+    {
+      "path": "printing/v10/stl/A2_board_retainer.stl",
+      "category": "production_stl",
+      "name": "主板压框",
+      "color": "蓝色",
+      "bytes": 102484,
+      "sha256": "e5f8b772697d5df12cbc31525b5c4858b50fa44b7c88752da4e7d2319a8562d2"
+    },
+    {
+      "path": "printing/v10/stl/B_battery_box.stl",
+      "category": "production_stl",
+      "name": "电池盒",
+      "color": "蓝色",
+      "bytes": 131084,
+      "sha256": "cc971701e2544f5e9c8a6a2d1d259978809df6e84820a24eef17e4a3e9754468"
+    },
+    {
+      "path": "printing/v10/stl/B2_battery_lid.stl",
+      "category": "production_stl",
+      "name": "电池盒盖",
+      "color": "蓝色",
+      "bytes": 117884,
+      "sha256": "465a1639e481811bc0dbf91b022dbbf601070e316a8c86537d22c3264bec5b12"
+    },
+    {
+      "path": "printing/v10/stl/C_pig_rear_hidden_loop.stl",
+      "category": "production_stl",
+      "name": "后盖（含挂耳、小猪）",
+      "color": "蓝色",
+      "bytes": 986684,
+      "sha256": "5111343b6b2aacba960a4e4a72e4e59e49b199a68a9a7f844763d6bea5df688c"
+    },
+    {
+      "path": "printing/v10/stl/D_daisy_petals.stl",
+      "category": "production_stl",
+      "name": "整片花瓣",
+      "color": "白色",
+      "bytes": 2209784,
+      "sha256": "e7bce71e34297b1bc5feb75315f1f02c0bfce6dc4c9d5706fc7466cb1bf11540"
+    },
+    {
+      "path": "printing/v10/stl/D2_daisy_center.stl",
+      "category": "production_stl",
+      "name": "花心",
+      "color": "黄色",
+      "bytes": 304384,
+      "sha256": "17ca0da7e5da024cd8af83c857e8cffb91bac5146c64f435d2748938f2a303c5"
+    },
+    {
+      "path": "printing/v10/stl/D3_stem_leaves.stl",
+      "category": "production_stl",
+      "name": "花梗和叶片（一体）",
+      "color": "深绿或黑色",
+      "bytes": 583884,
+      "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
+    },
+    {
+      "path": "printing/v10/plates/01_前壳与电池盒_蓝色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 73990,
+      "sha256": "ba4e69d82b67568fdd9d20243d653358f8af53393920ac36bb25dccc21a56c9c"
+    },
+    {
+      "path": "printing/v10/plates/02_背面挂耳后盖与压框_蓝色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 219456,
+      "sha256": "f313e2231e018400cd0acb21288344a133ba191eefc82d85c2db2ad69f09a128"
+    },
+    {
+      "path": "printing/v10/plates/03_电池盖_蓝色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 22775,
+      "sha256": "32f9aa4a1ec20658e0e5730b0ba3f2d81a539a4b2c13318705beba9628e15de9"
+    },
+    {
+      "path": "printing/v10/plates/04_立体花瓣_白色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 482579,
+      "sha256": "a11bca3850c6ca6c70e3387758f63d2c9d84c76b3f95348fff9ffbcdcd9d9617"
+    },
+    {
+      "path": "printing/v10/plates/05_立体花心_黄色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 65046,
+      "sha256": "cfe42217ee0d05905d0e130c646d76feb204e944e6aa687d99ef157f7aeb3bdc"
+    },
+    {
+      "path": "printing/v10/plates/06_花梗叶片_深绿或黑色.3mf",
+      "category": "production_plate",
+      "name": "",
+      "color": "",
+      "bytes": 134512,
+      "sha256": "8cfd487e3fd272f9769d531bb8af7d2c7ddd316509acb9bfa11960df7599269d"
+    },
+    {
+      "path": "printing/v10/fit-check/00_屏框_电池_背面挂耳试装.3mf",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 163629,
+      "sha256": "210dc1e0e5ce62f7a9400a2dd51946ac4c3530dbec50212801441bf844812c9e"
+    },
+    {
+      "path": "printing/v10/fit-check/07_只打圆孔挂耳试片.3mf",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 119446,
+      "sha256": "52d27984b638f3b2cdbb9ff473b4d903d8b0edfb89ad129849f5d3d626424f0d"
+    },
+    {
+      "path": "printing/v10/fit-check/08_先打USB与按键试装.3mf",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 32758,
+      "sha256": "aefa7b32e08db62e7966f9987144292fe2fad51340f14b54039424d69a22b5c2"
+    },
+    {
+      "path": "printing/v10/fit-check/T_access_main.stl",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 103284,
+      "sha256": "13e6ebf900bd22fd5294f883af56fedaa0f74f610700f3a26ad19a78c8b2fd0b"
+    },
+    {
+      "path": "printing/v10/fit-check/T_access_rear.stl",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 59184,
+      "sha256": "fa76ce70fa0cfc3ebf9feba45cb6228196f186d912f1856315bf1d4c4e9100d5"
+    },
+    {
+      "path": "printing/v10/fit-check/T_battery_fit.stl",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 52884,
+      "sha256": "c45439ff105bfcfc9c0857026b82a49e106a30a43876af9e94d87f28893381da"
+    },
+    {
+      "path": "printing/v10/fit-check/T_module_fit.stl",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 184884,
+      "sha256": "9ac7ee2b24c5669d22dea3d2360f29b25e2e99faf5f37cc1bed76e41bda71252"
+    },
+    {
+      "path": "printing/v10/fit-check/T_rear_loop_fit.stl",
+      "category": "optional_fit_check",
+      "name": "",
+      "color": "",
+      "bytes": 557384,
+      "sha256": "cb2583d238fd9567f19c19e228829607356065ebc5ea4f5bca4f158f1028a334"
+    },
+    {
+      "path": "docs/images/front-back.png",
+      "category": "preview",
+      "name": "",
+      "color": "",
+      "bytes": 144477,
+      "sha256": "5fb7c4e3f88eb9ea9a2b78221fb9a9ddca7a6eab7ae495526dd2a22507c194db"
+    },
+    {
+      "path": "docs/images/ports.png",
+      "category": "preview",
+      "name": "",
+      "color": "",
+      "bytes": 80470,
+      "sha256": "1a824bd55ede21ca5310683c20e6b0f2e381c0372a7067af64f968340d746375"
+    },
+    {
+      "path": "docs/images/assembly.png",
+      "category": "preview",
+      "name": "",
+      "color": "",
+      "bytes": 170004,
+      "sha256": "02070343f276db50292c931a43dd93120c7982cb9639e2096dcca8e64e45c5c6"
+    }
+  ]
+}
