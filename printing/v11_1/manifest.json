@@ -1,0 +1,132 @@
+{
+  "revision": "V11.1",
+  "physical_fit_confirmed": false,
+  "changes": "Rear-loading cap slots and closing tongues; remaining blue parts combined on one plate",
+  "entries": [
+    {
+      "path": "printing/v11_1/README.md",
+      "bytes": 6172,
+      "sha256": "71666212968e068e3c2203df1f98d1c39b5b5fdb422449ca0f4e869acc695423"
+    },
+    {
+      "path": "printing/v11_1/checks.json",
+      "bytes": 6280,
+      "sha256": "3cfa805fc68b39feef2970016ae7ae2f5a4357e14871a01ffcc6a1202e26150b"
+    },
+    {
+      "path": "printing/v11_1/combined-plate-check.json",
+      "bytes": 447,
+      "sha256": "d0da46e0b7bf547cc8e32bffa645512217dda90a450cff726f89005d9256d203"
+    },
+    {
+      "path": "printing/v11_1/fit-check/00_整板定位与按键帽试装.3mf",
+      "bytes": 85807,
+      "sha256": "b6d3ac4970ee8ca34a8e9f49e63286a0695ae431a51484a3544e648280b9b9bc"
+    },
+    {
+      "path": "printing/v11_1/fit-check/T_full_board_cover.stl",
+      "bytes": 261084,
+      "sha256": "88441bf73e2aee54b6c0580d7c8d4aa45ae5b8375bf32f834c17c77d4a4b43eb"
+    },
+    {
+      "path": "printing/v11_1/fit-check/T_full_board_frame.stl",
+      "bytes": 93884,
+      "sha256": "eb5299ef6706df39d8e5e10b6257bd4f16b0426e0b55e45b5dd29be841325e2e"
+    },
+    {
+      "path": "printing/v11_1/mesh-check-report.json",
+      "bytes": 2941,
+      "sha256": "75eec773dce725fb0fc14092e8c338509dc8e060e229ceca8f68fbb5e6531321"
+    },
+    {
+      "path": "printing/v11_1/params.json",
+      "bytes": 3141,
+      "sha256": "67ba0acc0cea1ec1104dd6ca8669cda62b564dd072b026593bea6dbb20e306fd"
+    },
+    {
+      "path": "printing/v11_1/plates/01_整体双仓前壳_蓝色.3mf",
+      "bytes": 50779,
+      "sha256": "11a27cca02bb51db89494b61ff5ff966b5e9ff669a5b6dd3ceac40dbcb1f015d"
+    },
+    {
+      "path": "printing/v11_1/plates/02_可拆后盖_蓝色.3mf",
+      "bytes": 126959,
+      "sha256": "43c3df0701a8798f23f93f75b31218707721678ecde4594c6d244eef72437c5b"
+    },
+    {
+      "path": "printing/v11_1/plates/03_两个按键帽与电池垫片_蓝色.3mf",
+      "bytes": 23289,
+      "sha256": "a514bbe2da6e9397b62550a62a29b0cf33a709784de14e3d0165bb5376860a70"
+    },
+    {
+      "path": "printing/v11_1/plates/04_花瓣_白色.3mf",
+      "bytes": 482579,
+      "sha256": "010d6f9e2fe0e9c2e007222f007467566688cf32d367718ea79d4569c21700d7"
+    },
+    {
+      "path": "printing/v11_1/plates/05_花心_黄色.3mf",
+      "bytes": 65046,
+      "sha256": "92e9bbdfafaf4764a89e535f27547be6717a32b8066f1b6be69846c02a49e2c8"
+    },
+    {
+      "path": "printing/v11_1/plates/06_花柄叶片_黑色.3mf",
+      "bytes": 134512,
+      "sha256": "5fbd2132dcf4c38b20fbaf401a7447cb3bad893cebad80d5909f74a03c3ab153"
+    },
+    {
+      "path": "printing/v11_1/plates/07_剩余蓝色三件合打一盘_V11p1.3mf",
+      "bytes": 180251,
+      "sha256": "8d88e8ddabbfb8b641398dace62362d781d6cb5deabb436bddbab229ed5a93b3"
+    },
+    {
+      "path": "printing/v11_1/source/build.py",
+      "bytes": 10794,
+      "sha256": "5cfdad480905a3c7c5ebd82d5989e70ceb3d95944461a641e20b6c5ebc187b88"
+    },
+    {
+      "path": "printing/v11_1/source/package.py",
+      "bytes": 1006,
+      "sha256": "351d296538c8a7e9edad768d9f6973baa9f7f8bbe01375f9e43d1e88af2ed780"
+    },
+    {
+      "path": "printing/v11_1/stl/A_main_two_bay.stl",
+      "bytes": 276484,
+      "sha256": "a62d969255ab760459158d6d818819682ab2a464ccad2787f21fd162fd73f46c"
+    },
+    {
+      "path": "printing/v11_1/stl/C_rear_cover.stl",
+      "bytes": 662884,
+      "sha256": "1f882d5f351a6c74ab8828980bef310946458cdf9630b9786469565e160e2137"
+    },
+    {
+      "path": "printing/v11_1/stl/D2_daisy_center.stl",
+      "bytes": 304384,
+      "sha256": "17ca0da7e5da024cd8af83c857e8cffb91bac5146c64f435d2748938f2a303c5"
+    },
+    {
+      "path": "printing/v11_1/stl/D3_stem_leaves.stl",
+      "bytes": 583884,
+      "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
+    },
+    {
+      "path": "printing/v11_1/stl/D_daisy_petals.stl",
+      "bytes": 2209784,
+      "sha256": "e7bce71e34297b1bc5feb75315f1f02c0bfce6dc4c9d5706fc7466cb1bf11540"
+    },
+    {
+      "path": "printing/v11_1/stl/E_battery_spacer.stl",
+      "bytes": 17484,
+      "sha256": "b1589e5b452fbbd94a3fdee6327df74efdbebccda57b883c96aa1f14235a272e"
+    },
+    {
+      "path": "printing/v11_1/stl/K_BOOT_cap.stl",
+      "bytes": 53484,
+      "sha256": "28cd7a372f53c3f0623a132832003f485115dfa05b5c6a3d72b69bb888eb8bb2"
+    },
+    {
+      "path": "printing/v11_1/stl/K_RST_cap.stl",
+      "bytes": 53484,
+      "sha256": "89647b85a5f64cd8c91d9f25a8fcb61e2e7aee41c679f6b819a0ae9e594637f9"
+    }
+  ]
+}

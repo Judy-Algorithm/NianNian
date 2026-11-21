@@ -1,22 +1,28 @@
-# 念念 · V11 整体双仓外壳
+# 念念 · V11.1 整体双仓外壳
 
-左侧屏幕与主板、右侧电池。一个整体壳体、一片可拆后盖、两颗防脱按键帽、一块电池垫片；保留右侧立体雏菊和背面小猪、挂耳。
+左侧屏幕与主板、右侧电池；整体壳、可拆后盖、两颗防脱按键帽、电池垫片。配色：蓝壳、白花瓣、黄花心、黑花柄和叶片。
 
-**配色：壳体蓝色、花瓣白色、花心黄色、花柄及叶片黑色。**
+**V11.1 修复 V11 按键帽两端过大、无法装入闭孔的安装路径问题：改为从后方 U 槽装入，合盖后由小舌片限位。**
 
-[下载 V11 打印包](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11_printing.zip) · [先试装：00 完整屏框与按键帽](printing/v11/fit-check/00_整板定位与按键帽试装.3mf) · [正式排版](printing/v11/plates/) · [装配说明](printing/v11/README.md)
+[剩余蓝色三件合打一盘](printing/v11_1/plates/07_剩余蓝色三件合打一盘_V11p1.3mf) · [下载新版打印包](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11p1_printing.zip) · [装配说明](printing/v11_1/README.md)
 
-![V11 双仓](docs/images/v11-two-bay.png)
+## 已经打印旧 00 和花件
 
-先打 00，用实际主板、线头和按钮检查后，再打印 01～03 整壳。**V11 尚未实物验证；不要与 V10 的壳、后盖混装。**
+1. 旧 00 仍可检查整板能否自然放入、USB 能否插到底和后盖是否顶元件。旧闭孔不能装入两端带止挡的帽子，不要硬塞。
+2. V11.1 的帽子、垫片和花件几何均未改变，已经打印的可复用。
+3. 剩余前壳、后盖、垫片可使用 07 同盘打印；不要再重复打印 01～03。后盖需要支撑，切片后检查预览。
+4. 新安装槽与按键回弹尚未实物验证。旧 00 板子与 USB 通过，不代表新版按键已通过。
 
-- 成品共 8 件：壳、后盖、两个帽子、垫片、白色花瓣、黄色花心、黑色枝叶。
-- 电池垫片名义厚 3.4 mm，按整包 6 mm 厚电池计算；实测后应调整，不能压紧电芯合盖。
-- 3MF 是通用几何排版，仍需在 Bambu Studio 选择实际机器、材料和支撑设置。
-- 本版不包含独立断电开关；两个帽子操作原板 BOOT、RST。
+![双仓布局，V11.1 仅修订侧边按键安装口](docs/images/v11-two-bay.png)
 
-[参数化 CAD 与 STEP 下载](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11_CAD.zip)
+## 从零开始
 
-## 旧版存档
+[新版 00 完整屏框与按键帽](printing/v11_1/fit-check/00_整板定位与按键帽试装.3mf) · [独立 STL](printing/v11_1/stl/) · [全部排版](printing/v11_1/plates/)
 
-[V10 文件](printing/v10/)仍保留用于追溯。旧 08 局部试片已经打印，但未确认孔位适配；V11 用完整定位试件替代。不要继续使用 V10 的 01～03 打印当前设计。
+成品共 8 件。电池垫片名义厚 3.4 mm，按整包 6 mm 厚电池计算；实测后调整，不能压紧电芯合盖。3MF 只含几何与摆放，仍需选实际机器、材料和支撑。
+
+[最新参数化 CAD 与 STEP](https://github.com/Judy-Algorithm/NianNian/raw/refs/heads/main/downloads/NianNian_V11_CAD.zip)
+
+## 旧版
+
+[V11 存档](printing/v11/) · [V10 存档](printing/v10/)。旧版壳和后盖不与 V11.1 混装；旧按键帽和花件可以沿用。
