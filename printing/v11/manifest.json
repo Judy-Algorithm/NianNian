@@ -1,0 +1,111 @@
+{
+  "revision": "V11",
+  "physical_fit_confirmed": false,
+  "entries": [
+    {
+      "path": "printing/v11/README.md",
+      "bytes": 4660,
+      "sha256": "10ac664e2b434011555c9ed44066dc3c0ee9ab5198e9008cdad4397126cecc39"
+    },
+    {
+      "path": "printing/v11/checks.json",
+      "bytes": 4168,
+      "sha256": "f611ec8de0e4007a2abb7b7c655eca124e9709c6800503bbb8a326377f650ca3"
+    },
+    {
+      "path": "printing/v11/fit-check/00_整板定位与按键帽试装.3mf",
+      "bytes": 78753,
+      "sha256": "d6a3bf78ee84926f6e54920180033bf6aa6cbd35c53a51049bc6c3b5c4c28459"
+    },
+    {
+      "path": "printing/v11/fit-check/T_full_board_cover.stl",
+      "bytes": 225884,
+      "sha256": "e8eb7a1c5d7f64e5f82c859fc44d03e5cc40130eca9bb3c4f3fa9d808c470003"
+    },
+    {
+      "path": "printing/v11/fit-check/T_full_board_frame.stl",
+      "bytes": 94284,
+      "sha256": "650f927921d5ea8c651614dbf1be2f2e11e08e2a971c631b69cf012ec6ef2c2b"
+    },
+    {
+      "path": "printing/v11/mesh-check-report.json",
+      "bytes": 2939,
+      "sha256": "13fbd99651ed30f478a1ec78a1adc305e6695a90bf57eee06c91563f9f1d90fa"
+    },
+    {
+      "path": "printing/v11/params.json",
+      "bytes": 3141,
+      "sha256": "67ba0acc0cea1ec1104dd6ca8669cda62b564dd072b026593bea6dbb20e306fd"
+    },
+    {
+      "path": "printing/v11/plates/01_整体双仓前壳_蓝色.3mf",
+      "bytes": 50821,
+      "sha256": "3075448a967fb378adcf60d43a6a985876270996b3aadd3752981c81a4551d1d"
+    },
+    {
+      "path": "printing/v11/plates/02_可拆后盖_蓝色.3mf",
+      "bytes": 120665,
+      "sha256": "d22a8822a44b251b38e2a4bed51ca612038d429784e492ef36c741a2760e955d"
+    },
+    {
+      "path": "printing/v11/plates/03_两个按键帽与电池垫片_蓝色.3mf",
+      "bytes": 23289,
+      "sha256": "acb55c5abb3a1aba3739ce0230e2bb98b15a5a143bf25f532ed585648567f86e"
+    },
+    {
+      "path": "printing/v11/plates/04_花瓣_白色.3mf",
+      "bytes": 482579,
+      "sha256": "1b99cf1d89aee4d96af5e1c874fb972bcb0ecf306cead1d818edc3d9c00cf071"
+    },
+    {
+      "path": "printing/v11/plates/05_花心_黄色.3mf",
+      "bytes": 65046,
+      "sha256": "c9ab81207ab512dfc4223fb9ce38d2eda11b8689a0b57d364afe5e74bf20eceb"
+    },
+    {
+      "path": "printing/v11/plates/06_花柄叶片_黑色.3mf",
+      "bytes": 134512,
+      "sha256": "44e9ca17f5420e63fee197536ebf15bc73d7cec73a6091766dbba959a4738158"
+    },
+    {
+      "path": "printing/v11/stl/A_main_two_bay.stl",
+      "bytes": 276884,
+      "sha256": "76c3220158e49abec564705a6711d7d090f1bbd2006cf21b7fdc6efd216222c4"
+    },
+    {
+      "path": "printing/v11/stl/C_rear_cover.stl",
+      "bytes": 627684,
+      "sha256": "4b595aa8c2c15bc7287e505003c5a61220a72d80b5fee002bf4b776bbbdd11c2"
+    },
+    {
+      "path": "printing/v11/stl/D2_daisy_center.stl",
+      "bytes": 304384,
+      "sha256": "17ca0da7e5da024cd8af83c857e8cffb91bac5146c64f435d2748938f2a303c5"
+    },
+    {
+      "path": "printing/v11/stl/D3_stem_leaves.stl",
+      "bytes": 583884,
+      "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
+    },
+    {
+      "path": "printing/v11/stl/D_daisy_petals.stl",
+      "bytes": 2209784,
+      "sha256": "e7bce71e34297b1bc5feb75315f1f02c0bfce6dc4c9d5706fc7466cb1bf11540"
+    },
+    {
+      "path": "printing/v11/stl/E_battery_spacer.stl",
+      "bytes": 17484,
+      "sha256": "b1589e5b452fbbd94a3fdee6327df74efdbebccda57b883c96aa1f14235a272e"
+    },
+    {
+      "path": "printing/v11/stl/K_BOOT_cap.stl",
+      "bytes": 53484,
+      "sha256": "28cd7a372f53c3f0623a132832003f485115dfa05b5c6a3d72b69bb888eb8bb2"
+    },
+    {
+      "path": "printing/v11/stl/K_RST_cap.stl",
+      "bytes": 53484,
+      "sha256": "89647b85a5f64cd8c91d9f25a8fcb61e2e7aee41c679f6b819a0ae9e594637f9"
+    }
+  ]
+}
