@@ -1,0 +1,16 @@
+{
+  "first_layer_objects": {
+    "16": 256,
+    "12": 575,
+    "20": 203,
+    "24": 207,
+    "8": 569
+  },
+  "cap_brim_segments": {
+    "20": 191,
+    "24": 195
+  },
+  "support_segments": 567,
+  "bed_and_exclusion_check": true,
+  "note": "Toolpath audit, not a physical adhesion test; arcs shown as chords in overview."
+}

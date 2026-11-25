@@ -1,0 +1,16 @@
+{
+  "revision": "V12.1",
+  "old_V12_issue": "divider ends collided with cover lip: 0.896 mm^3 total",
+  "fix": "two divider-end clearance notches",
+  "builder_checks": 78,
+  "independent_checks": 40,
+  "stl_checks": 10,
+  "all_pass": true,
+  "limits": [
+    "No physical V12.1 print or fit test",
+    "0.3 mm nominal rear component clearance is tight",
+    "Button actuation travel and return require physical test",
+    "Only 12x6 mm reference cable jacket checked; real jacket not measured",
+    "Actual battery pack and wire bend clearance not measured"
+  ]
+}

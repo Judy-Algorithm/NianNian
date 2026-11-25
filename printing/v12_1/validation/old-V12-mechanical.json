@@ -1,0 +1,330 @@
+[
+  {
+    "pair": [
+      "A_main_two_bay",
+      "C_rear_cover"
+    ],
+    "overlap_mm3": 0.896,
+    "pass_check": false
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "E_battery_spacer"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "K_BOOT_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "K_RST_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "D_daisy_petals"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "A_main_two_bay",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "E_battery_spacer"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "K_BOOT_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "K_RST_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "D_daisy_petals"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "C_rear_cover",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "E_battery_spacer",
+      "K_BOOT_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "E_battery_spacer",
+      "K_RST_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "E_battery_spacer",
+      "D_daisy_petals"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "E_battery_spacer",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "E_battery_spacer",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_BOOT_cap",
+      "K_RST_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_BOOT_cap",
+      "D_daisy_petals"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_BOOT_cap",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_BOOT_cap",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_RST_cap",
+      "D_daisy_petals"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_RST_cap",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "K_RST_cap",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "D_daisy_petals",
+      "D2_daisy_center"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "D_daisy_petals",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "D2_daisy_center",
+      "D3_stem_leaves"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "reference_12x6_cable_sweep",
+      "A_main_two_bay"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "reference_12x6_cable_sweep",
+      "C_rear_cover"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "reference_12x6_cable_sweep",
+      "K_BOOT_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "reference_12x6_cable_sweep",
+      "K_RST_cap"
+    ],
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": 0,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -0.25,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -0.5,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -1,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -2,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -4,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -8,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  },
+  {
+    "pair": [
+      "board_rear_insertion",
+      "body"
+    ],
+    "offset_z": -12,
+    "overlap_mm3": 0.0,
+    "pass_check": true
+  }
+]

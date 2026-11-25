@@ -1,0 +1,95 @@
+{
+  "revision": "V12.1",
+  "physical_fit_confirmed": false,
+  "old_version_deprecated": "V12",
+  "entries": [
+    {
+      "path": "printing/v12_1/README.md",
+      "sha256": "c7379b03bd5cd9a1011b441bc95125fc2a989e76f96f11b7895d10a27cae6b5a"
+    },
+    {
+      "path": "printing/v12_1/params.json",
+      "sha256": "a0f2b07756092b5f186dd6bfc5a311f6cfc81d805977f1fdb978ba257ad421b0"
+    },
+    {
+      "path": "printing/v12_1/project/打开这个_V12p1_复核修正版_PETG.3mf",
+      "sha256": "b7a097af58132dc19a15322d21afc5950800281c8b269ddae82d5c0395001139"
+    },
+    {
+      "path": "printing/v12_1/source/build.py",
+      "sha256": "6450eb4b9013618ebb23393f6b9215bea38f6f768e2be2fe83b82962ec406b6c"
+    },
+    {
+      "path": "printing/v12_1/source/package.py",
+      "sha256": "3e7dfd9fb3d6be4d5d89cf0082e4ebf430ce2559c91de0fc057879b8bc00e04a"
+    },
+    {
+      "path": "printing/v12_1/source/validate_meshes.py",
+      "sha256": "b0d872bb9b5c75b66d6fb0f7ebb5e13d0fcb132b6128703bc67bcf1e9cf2a4fe"
+    },
+    {
+      "path": "printing/v12_1/stl/A_main_two_bay.stl",
+      "sha256": "c5da4a5201a625636a6008184092279b9da826b2b82c2032e679469ce1bc1a06"
+    },
+    {
+      "path": "printing/v12_1/stl/C_rear_cover.stl",
+      "sha256": "c762ffd0c7013ccf1dead2106dc3b52f46522918235646bba947daa1bcf01851"
+    },
+    {
+      "path": "printing/v12_1/stl/D2_daisy_center.stl",
+      "sha256": "17ca0da7e5da024cd8af83c857e8cffb91bac5146c64f435d2748938f2a303c5"
+    },
+    {
+      "path": "printing/v12_1/stl/D3_stem_leaves.stl",
+      "sha256": "008ee10f5499dccab6d8a2948ac7c93d67d027584b11f8cd9efaf2e03978a57f"
+    },
+    {
+      "path": "printing/v12_1/stl/D_daisy_petals.stl",
+      "sha256": "e7bce71e34297b1bc5feb75315f1f02c0bfce6dc4c9d5706fc7466cb1bf11540"
+    },
+    {
+      "path": "printing/v12_1/stl/E_battery_spacer.stl",
+      "sha256": "de42667e61d5d1de94431c08230ddae9f8b894f76d1c9f0ad2e599bf6dfb636f"
+    },
+    {
+      "path": "printing/v12_1/stl/K_BOOT_cap.stl",
+      "sha256": "b24060d9a97466ac7c3de91a20a0338303b991534b6f43f6f7034ff38be784d5"
+    },
+    {
+      "path": "printing/v12_1/stl/K_RST_cap.stl",
+      "sha256": "de728b10d1e17f567c225f2f9415bc682ff6c7808c76e420151ee6d51006f4c1"
+    },
+    {
+      "path": "printing/v12_1/validation/checks.json",
+      "sha256": "bfff51b2ecedc04b5c1ad9c31f20f6e5d9fa17bca762b42b1bbdbdd80680b077"
+    },
+    {
+      "path": "printing/v12_1/validation/first-layer.json",
+      "sha256": "dcfcc3bdfb5632f03cac276c50b3a5dad65e4008444f2645030bf3d349394092"
+    },
+    {
+      "path": "printing/v12_1/validation/mechanical.json",
+      "sha256": "a90b56f1f50062f755622806b82953f41d6b8c95ed11fcaf3226a99923dcb6bc"
+    },
+    {
+      "path": "printing/v12_1/validation/mesh-check-report.json",
+      "sha256": "1d4d52d0ac4dc18035ad7042f06abdd22e046e78d557d13ac553aa892c82a076"
+    },
+    {
+      "path": "printing/v12_1/validation/old-V12-mechanical.json",
+      "sha256": "d6c516837b6715681633cd0e3aeb058c173dcc3fd715d1c28aad5432cf657139"
+    },
+    {
+      "path": "printing/v12_1/validation/slicer.json",
+      "sha256": "bd67233ef0317d94fbda70f9327e3c7bf8a1fd451a4fd34fbb79a2e4b6b49e5c"
+    },
+    {
+      "path": "printing/v12_1/validation/summary.json",
+      "sha256": "ff800e9f905e69395907abf3be53f40058dbd8360465fda110c7d21e7da483d5"
+    },
+    {
+      "path": "printing/v12_1/validation/首层路径检查.png",
+      "sha256": "0496d220b43935aa47b5acbaa2cd401b941d5894323f8ff5e53990f0e89fe1b1"
+    }
+  ]
+}
